@@ -1,12 +1,9 @@
-.idea
-*.iml
-*.ipr
-*.iws
+*Thumbs\.db
+*~
+[#]*[#]
+.\#*
 .gradle
-.project
-.classpath
 build
-out
-movies_copy.xml
-.settings/
-/bin/
+
+# don't forget this one
+!.gitignore
